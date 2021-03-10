@@ -11,7 +11,7 @@ export default {
     },
     {
       title: true,
-      name: 'Theme',
+      name: 'Candidate Manager',
       class: '',
       wrapper: {
         element: '',
@@ -19,14 +19,33 @@ export default {
       }
     },
     {
-      name: 'Colors',
-      url: '/theme/colors',
-      icon: 'icon-drop'
+      name: 'New candidate',
+      url: '/candidate/new',
+      icon: 'icon-pencil'
     },
     {
-      name: 'Typography',
+      name: 'List candidates',
+      url: '/candidate/index',
+      icon: 'icon-layers'
+    },
+    {
+      title: true,
+      name: 'Color',
+      class: '',
+      wrapper: {
+        element: '',
+        attributes: {}
+      }
+    },
+    {
+      name: 'typography',
       url: '/theme/typography',
       icon: 'icon-pencil'
+    },
+    {
+      name: 'colors',
+      url: '/theme/colors',
+      icon: 'icon-layers'
     },
     {
       title: true,
@@ -240,8 +259,8 @@ export default {
           icon: 'icon-star'
         }
       ]
-    },
-    {
+    }
+    /* {
       name: 'Download CoreUI',
       url: 'http://coreui.io/vue/',
       icon: 'icon-cloud-download',
@@ -253,6 +272,6 @@ export default {
       url: 'http://coreui.io/pro/vue/',
       icon: 'icon-layers',
       variant: 'danger'
-    }
+    } */
   ]
 }

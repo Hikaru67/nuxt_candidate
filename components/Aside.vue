@@ -9,13 +9,13 @@
           <small><b>Today</b></small>
         </Callout>
         <hr class="transparent mx-3 my-0">
-        <Callout 
-          variant="warning" 
+        <Callout
+          variant="warning"
           class="m-0 py-3" >
           <div class="avatar float-right">
-            <img 
-              src="~/static/img/avatars/7.jpg" 
-              class="img-avatar" 
+            <img
+              src="~/static/img/avatars/7.jpg"
+              class="img-avatar"
               alt="admin@bootstrapmaster.com" >
           </div>
           <div>Meeting with <strong>Lucas</strong></div>
@@ -23,13 +23,13 @@
           <small class="text-muted"><i class="icon-location-pin"/>&nbsp; Palo Alto, CA </small>
         </Callout>
         <hr class="mx-3 my-0">
-        <Callout 
-          variant="info" 
+        <Callout
+          variant="info"
           class="m-0 py-3" >
           <div class="avatar float-right">
-            <img 
-              src="~/static/img/avatars/4.jpg" 
-              class="img-avatar" 
+            <img
+              src="~/static/img/avatars/4.jpg"
+              class="img-avatar"
               alt="admin@bootstrapmaster.com" >
           </div>
           <div>
@@ -39,19 +39,19 @@
             <i class="icon-calendar"/>&nbsp; 4 - 5pm
           </small>
           <small class="text-muted">
-            <i class="icon-social-skype"/>&nbsp; On-line 
+            <i class="icon-social-skype"/>&nbsp; On-line
           </small>
         </Callout>
         <hr class="transparent mx-3 my-0">
-        <Callout 
+        <Callout
           class="m-0 py-2 text-muted text-center bg-light text-uppercase">
           <small>
             <b>Tomorrow</b>
           </small>
         </Callout>
         <hr class="transparent mx-3 my-0">
-        <Callout 
-          variant="danger" 
+        <Callout
+          variant="danger"
           class="m-0 py-3" >
           <div>
             New UI Project - <strong>deadline</strong>
@@ -60,44 +60,44 @@
             <i class="icon-calendar"/>&nbsp; 10 - 11pm
           </small>
           <small class="text-muted">
-            <i class="icon-home"/>&nbsp; creativeLabs HQ 
+            <i class="icon-home"/>&nbsp; creativeLabs HQ
           </small>
           <div class="avatars-stack mt-2">
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/2.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/2.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/3.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/3.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/4.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/4.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/5.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/5.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/6.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/6.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
           </div>
         </Callout>
         <hr class="mx-3 my-0">
-        <Callout 
-          variant="success" 
+        <Callout
+          variant="success"
           class="m-0 py-3" >
           <div>
             <strong>#10 Startups.Garden</strong> Meetup
@@ -106,12 +106,12 @@
             <i class="icon-calendar"/>&nbsp; 1 - 3pm
           </small>
           <small class="text-muted">
-            <i class="icon-location-pin"/>&nbsp; Palo Alto, CA 
+            <i class="icon-location-pin"/>&nbsp; Palo Alto, CA
           </small>
         </Callout>
         <hr class="mx-3 my-0">
-        <Callout 
-          variant="primary" 
+        <Callout
+          variant="primary"
           class="m-0 py-3" >
           <div>
             <strong>Team meeting</strong>
@@ -120,49 +120,49 @@
             <i class="icon-calendar"/>&nbsp; 4 - 6pm
           </small>
           <small class="text-muted">
-            <i class="icon-home"/>&nbsp; creativeLabs HQ 
+            <i class="icon-home"/>&nbsp; creativeLabs HQ
           </small>
           <div class="avatars-stack mt-2">
             <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/2.jpg" 
-                class="img-avatar" 
-                alt="admin@bootstrapmaster.com" >
-            </div>
-            <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/3.jpg" 
-                class="img-avatar" 
-                alt="admin@bootstrapmaster.com" >
-            </div>
-            <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/4.jpg" 
-                class="img-avatar" 
-                alt="admin@bootstrapmaster.com" >
-            </div>
-            <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/5.jpg" 
-                class="img-avatar" 
-                alt="admin@bootstrapmaster.com" >
-            </div>
-            <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/6.jpg" 
-                class="img-avatar" 
-                alt="admin@bootstrapmaster.com" >
-            </div>
-            <div class="avatar avatar-xs">
-              <img 
-                src="~/static/img/avatars/7.jpg" 
-                class="img-avatar" 
+              <img
+                src="~/static/img/avatars/2.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
             <div class="avatar avatar-xs">
               <img
-                src="~/static/img/avatars/8.jpg" 
-                class="img-avatar" 
+                src="~/static/img/avatars/3.jpg"
+                class="img-avatar"
+                alt="admin@bootstrapmaster.com" >
+            </div>
+            <div class="avatar avatar-xs">
+              <img
+                src="~/static/img/avatars/4.jpg"
+                class="img-avatar"
+                alt="admin@bootstrapmaster.com" >
+            </div>
+            <div class="avatar avatar-xs">
+              <img
+                src="~/static/img/avatars/5.jpg"
+                class="img-avatar"
+                alt="admin@bootstrapmaster.com" >
+            </div>
+            <div class="avatar avatar-xs">
+              <img
+                src="~/static/img/avatars/6.jpg"
+                class="img-avatar"
+                alt="admin@bootstrapmaster.com" >
+            </div>
+            <div class="avatar avatar-xs">
+              <img
+                src="~/static/img/avatars/7.jpg"
+                class="img-avatar"
+                alt="admin@bootstrapmaster.com" >
+            </div>
+            <div class="avatar avatar-xs">
+              <img
+                src="~/static/img/avatars/8.jpg"
+                class="img-avatar"
                 alt="admin@bootstrapmaster.com" >
             </div>
           </div>
@@ -178,11 +178,11 @@
             <div class="py-3 pb-5 mr-3 float-left">
               <div class="avatar">
                 <img
-                  src="~/static/img/avatars/7.jpg" 
-                  class="img-avatar" 
+                  src="~/static/img/avatars/7.jpg"
+                  class="img-avatar"
                   alt="admin@bootstrapmaster.com" >
                 <b-badge
-                  variant="success" 
+                  variant="success"
                   class="avatar-status" />
               </div>
             </div>
@@ -205,12 +205,12 @@
           <div class="message">
             <div class="py-3 pb-5 mr-3 float-left">
               <div class="avatar">
-                <img 
-                  src="~/static/img/avatars/7.jpg" 
-                  class="img-avatar" 
+                <img
+                  src="~/static/img/avatars/7.jpg"
+                  class="img-avatar"
                   alt="admin@bootstrapmaster.com" >
-                <b-badge 
-                  variant="success" 
+                <b-badge
+                  variant="success"
                   class="avatar-status" />
               </div>
             </div>
@@ -225,12 +225,12 @@
           <div class="message">
             <div class="py-3 pb-5 mr-3 float-left">
               <div class="avatar">
-                <img 
-                  src="~/static/img/avatars/7.jpg" 
-                  class="img-avatar" 
+                <img
+                  src="~/static/img/avatars/7.jpg"
+                  class="img-avatar"
                   alt="admin@bootstrapmaster.com" >
-                <b-badge 
-                  variant="success" 
+                <b-badge
+                  variant="success"
                   class="avatar-status" />
               </div>
             </div>
@@ -253,12 +253,12 @@
           <div class="message">
             <div class="py-3 pb-5 mr-3 float-left">
               <div class="avatar">
-                <img 
-                  src="~/static/img/avatars/7.jpg" 
-                  class="img-avatar" 
+                <img
+                  src="~/static/img/avatars/7.jpg"
+                  class="img-avatar"
                   alt="admin@bootstrapmaster.com" >
-                <b-badge 
-                  variant="success" 
+                <b-badge
+                  variant="success"
                   class="avatar-status" />
               </div>
             </div>
@@ -281,12 +281,12 @@
           <div class="message">
             <div class="py-3 pb-5 mr-3 float-left">
               <div class="avatar">
-                <img 
-                  src="~/static/img/avatars/7.jpg" 
-                  class="img-avatar" 
+                <img
+                  src="~/static/img/avatars/7.jpg"
+                  class="img-avatar"
                   alt="admin@bootstrapmaster.com" >
-                <b-badge 
-                  variant="success" 
+                <b-badge
+                  variant="success"
                   class="avatar-status" />
               </div>
             </div>
@@ -316,14 +316,14 @@
           <div class="aside-options">
             <div class="clearfix mt-4">
               <small><b>Option 1</b></small>
-              <c-switch 
+              <c-switch
                 :pill="true"
                 :checked="true"
-                type="text" 
-                variant="success" 
-                on="on" 
-                off="off" 
-                size="sm" 
+                type="text"
+                variant="success"
+                on="on"
+                off="off"
+                size="sm"
                 class="float-right" />
             </div>
             <div>
@@ -335,13 +335,13 @@
           <div class="aside-options">
             <div class="clearfix mt-3">
               <small><b>Option 2</b></small>
-              <c-switch 
+              <c-switch
                 :pill="true"
-                type="text" 
-                variant="success" 
-                on="on" 
-                off="off" 
-                size="sm" 
+                type="text"
+                variant="success"
+                on="on"
+                off="off"
+                size="sm"
                 class="float-right" />
             </div>
             <div>
@@ -353,27 +353,27 @@
           <div class="aside-options">
             <div class="clearfix mt-3">
               <small><b>Option 3</b></small>
-              <c-switch 
+              <c-switch
                 :pill="true"
-                type="text" 
-                variant="success" 
-                on="on" 
-                off="off" 
-                size="sm" 
+                type="text"
+                variant="success"
+                on="on"
+                off="off"
+                size="sm"
                 class="float-right" />
             </div>
           </div>
           <div class="aside-options">
             <div class="clearfix mt-3">
               <small><b>Option 4</b></small>
-              <c-switch 
-                :pill="true" 
+              <c-switch
+                :pill="true"
                 :checked="true"
-                type="text" 
-                variant="success" 
-                on="on" 
-                off="off" 
-                size="sm" 
+                type="text"
+                variant="success"
+                on="on"
+                off="off"
+                size="sm"
                 class="float-right" />
             </div>
           </div>
@@ -382,10 +382,10 @@
           <div class="text-uppercase mb-1 mt-4">
             <small><b>CPU Usage</b></small>
           </div>
-          <b-progress 
+          <b-progress
             :value="25"
-            height="{}" 
-            class="progress-xs" 
+            height="{}"
+            class="progress-xs"
             variant="info" />
           <small class="text-muted">
             348 Processes. 1/4 Cores.
@@ -393,28 +393,28 @@
           <div class="text-uppercase mb-1 mt-2">
             <small><b>Memory Usage</b></small>
           </div>
-          <b-progress 
+          <b-progress
             :value="70"
-            height="{}" 
-            class="progress-xs" 
+            height="{}"
+            class="progress-xs"
             variant="warning" />
           <small class="text-muted">11444GB/16384MB</small>
           <div class="text-uppercase mb-1 mt-2">
             <small><b>SSD 1 Usage</b></small>
           </div>
-          <b-progress 
+          <b-progress
             :value="95"
-            height="{}" 
-            class="progress-xs" 
+            height="{}"
+            class="progress-xs"
             variant="danger" />
           <small class="text-muted">243GB/256GB</small>
           <div class="text-uppercase mb-1 mt-2">
             <small><b>SSD 2 Usage</b></small>
           </div>
-          <b-progress 
+          <b-progress
             :value="10"
-            height="{}" 
-            class="progress-xs" 
+            height="{}"
+            class="progress-xs"
             variant="success" />
           <small class="text-muted">25GB/256GB</small>
         </div>

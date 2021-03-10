@@ -2,8 +2,8 @@
   <div class="app">
     <AppHeader fixed />
     <div class="app-body">
-      <Sidebar 
-        :nav-items="nav" 
+      <Sidebar
+        :nav-items="nav"
         fixed />
       <main class="main">
         <breadcrumb :list="list"/>
